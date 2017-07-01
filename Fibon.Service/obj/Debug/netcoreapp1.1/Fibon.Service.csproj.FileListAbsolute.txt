@@ -1,0 +1,10 @@
+D:\Fibon\Fibon.Service\bin\Debug\netcoreapp1.1\Fibon.Service.deps.json
+D:\Fibon\Fibon.Service\bin\Debug\netcoreapp1.1\Fibon.Service.runtimeconfig.json
+D:\Fibon\Fibon.Service\bin\Debug\netcoreapp1.1\Fibon.Service.runtimeconfig.dev.json
+D:\Fibon\Fibon.Service\bin\Debug\netcoreapp1.1\Fibon.Service.dll
+D:\Fibon\Fibon.Service\bin\Debug\netcoreapp1.1\Fibon.Service.pdb
+D:\Fibon\Fibon.Service\bin\Debug\netcoreapp1.1\Fibon.Messages.dll
+D:\Fibon\Fibon.Service\bin\Debug\netcoreapp1.1\Fibon.Messages.pdb
+D:\Fibon\Fibon.Service\obj\Debug\netcoreapp1.1\Fibon.Service.AssemblyInfo.cs
+D:\Fibon\Fibon.Service\obj\Debug\netcoreapp1.1\Fibon.Service.dll
+D:\Fibon\Fibon.Service\obj\Debug\netcoreapp1.1\Fibon.Service.pdb

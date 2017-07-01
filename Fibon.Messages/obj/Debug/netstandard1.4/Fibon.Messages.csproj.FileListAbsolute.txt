@@ -1,0 +1,6 @@
+D:\Fibon\Fibon.Messages\bin\Debug\netstandard1.4\Fibon.Messages.deps.json
+D:\Fibon\Fibon.Messages\bin\Debug\netstandard1.4\Fibon.Messages.dll
+D:\Fibon\Fibon.Messages\bin\Debug\netstandard1.4\Fibon.Messages.pdb
+D:\Fibon\Fibon.Messages\obj\Debug\netstandard1.4\Fibon.Messages.AssemblyInfo.cs
+D:\Fibon\Fibon.Messages\obj\Debug\netstandard1.4\Fibon.Messages.dll
+D:\Fibon\Fibon.Messages\obj\Debug\netstandard1.4\Fibon.Messages.pdb

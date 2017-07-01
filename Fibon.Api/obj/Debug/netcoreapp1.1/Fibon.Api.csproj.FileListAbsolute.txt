@@ -1,0 +1,11 @@
+D:\Fibon\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Api.deps.json
+D:\Fibon\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Api.runtimeconfig.json
+D:\Fibon\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Api.runtimeconfig.dev.json
+D:\Fibon\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Api.dll
+D:\Fibon\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Api.pdb
+D:\Fibon\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Messages.dll
+D:\Fibon\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Messages.pdb
+D:\Fibon\Fibon.Api\obj\Debug\netcoreapp1.1\Fibon.Api.AssemblyInfo.cs
+D:\Fibon\Fibon.Api\obj\Debug\netcoreapp1.1\Fibon.Api.dll
+D:\Fibon\Fibon.Api\obj\Debug\netcoreapp1.1\Fibon.Api.pdb
+D:\Fibon\Fibon.Api\obj\Debug\netcoreapp1.1\Fibon.Api.csprojResolveAssemblyReference.cache
